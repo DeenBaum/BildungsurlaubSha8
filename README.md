@@ -1,1 +1,3 @@
 # BildungsurlaubSha8
+❯ sha256sum best_einarbeitung.zip
+43f8df97b5c85190e3793da2a754cf790ffb166de38b38e90d7b4a5949ae70d2  best_einarbeitung.zip
